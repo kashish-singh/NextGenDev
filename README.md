@@ -4,7 +4,7 @@
 During this 4-week web development project, I undertook three distinct tasks to enhance my proficiency in front-end development using HTML, CSS, and JavaScript. The tasks included developing a Calculator, creating a Landing Page, and designing a Portfolio website. Each task was aimed at strengthening my coding skills and understanding of web design principles.
 
 - **Calculator** - [Project Preview](https://calculator-kashish.netlify.app/)
-- **Landing Portfolio** - [Project Preview](https://kashish-landingpage.netlify.app/)
+- **Landing Page for File Transfer Website** - [Project Preview](https://kashish-landingpage.netlify.app/)
 - **Portfolio** - [Project Preview](https://kashish-singh.netlify.app/)
 
 
